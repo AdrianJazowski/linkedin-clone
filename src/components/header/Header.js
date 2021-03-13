@@ -24,11 +24,11 @@ const Header = () => {
         </div>
       </div>
       <div className="header__right">
-        <HeaderOption Icon={HomeIcon} title="Home" />
-        <HeaderOption Icon={SupervisorAccountIcon} title="My Network" />
-        <HeaderOption Icon={BusinessCenterIcon} title="Jobs" />
-        <HeaderOption Icon={ChatIcon} title="Messaging" />
-        <HeaderOption Icon={NotificationsIcon} title="Notifications" />
+        <HeaderOption Icon={HomeIcon} title="Główna" />
+        <HeaderOption Icon={SupervisorAccountIcon} title="Moja sięc" />
+        <HeaderOption Icon={BusinessCenterIcon} title="Oferty pracy" />
+        <HeaderOption Icon={ChatIcon} title="Wiadomości" />
+        <HeaderOption Icon={NotificationsIcon} title="Powiadomienia" />
         <HeaderOption
           avatar="https://media-exp1.licdn.com/dms/image/C4D03AQG-4QK84KhL7w/profile-displayphoto-shrink_800_800/0/1570824359189?e=1620864000&v=beta&t=AvPfqXy2Pe4n8fVwcmUIE-2naRMSz8xoI6KQopW8Y-8"
           title="Ja"
